@@ -249,7 +249,7 @@ Xin Game Master đưa ra diễn biến tiếp theo cho **Tuần 11 và Tuần 12
 | Chỉ số | Trạng thái hiện tại |
 | :--- | :--- |
 | **Học kỳ / Tuần** | Kỳ 1 / Tuần 11 và Tuần 12 |
-| **Thể lực & Tinh thần** | 68/100% (Thể lực giảm sút do vừa phải tập chạy bền môn Thể dục vừa phải thức khuya ôn thi; tinh thần hơi căng thẳng vì áp lực thi cử cận kề) |
+| **Thể lực & Tinh thần** | 68/100% (Thể lực giảm sút do vừa phải tập chạy môn Thể dục vừa phải thức khuya ôn thi; tinh thần hơi căng thẳng vì áp lực thi cử cận kề) |
 | **Phân bổ 70 giờ tuần này** | Lớp: 30h \| Cày slide: 20h \| Tự học Lab: 12h \| Giải trí: 8h (Tính trung bình mỗi tuần) |
 | **GPA Tích lũy (Hệ 4)** | 0.0 / 4.0 (Đã có điểm giữa kỳ nhưng chưa có điểm tổng kết) |
 | **Kỹ năng Code thực tế** | Viết được chương trình C cơ bản (Hello World, tính tổng hai số, kiểm tra số chẵn lẻ). Biết cách dùng trình biên dịch GCC trên Linux terminal. |
@@ -267,7 +267,7 @@ Chào Game Master, hai tuần vừa qua là giai đoạn "vắt chân lên cổ"
 #### 1. ÁP LỰC ĐỒNG LOẠT TRÊN LỚP
 * **Nhập môn CNTT**: Môn này chuyển sang phần thiết kế thuật toán bằng **Sơ đồ dòng chảy (Flowchart)** và giả mã (Pseudo-code). Em phải vẽ các khối hình thoi (cho điều kiện rẽ nhánh), hình chữ nhật (cho tiến trình xử lý), hình van (cho bắt đầu/kết thúc). Tuy không phải gõ code trực tiếp, nhưng việc phải tư duy logic thế nào để tìm số lớn nhất trong 3 số, hoặc tính tổng các số từ 1 đến $n$ bằng sơ đồ khiến đầu óc em bắt đầu làm quen với tư duy lập trình.
 * **Giải tích 1**: Bài học đi vào phần **Tích phân suy rộng** (với các cận vô hạn như $\int_{a}^{+\infty} f(x)dx$ hoặc tích phân của hàm không liên tục). Việc xác định xem một tích phân suy rộng hội tụ hay phân kỳ bằng các tiêu chuẩn so sánh (so sánh với tích phân của hàm $\frac{1}{x^\alpha}$) thực sự rất trừu tượng. Em phải dành nhiều đêm thức đến 1-2h sáng để giải các bài tập trong sách bài tập của KMA để mong không bị liệt môn này.
-* **Thể chất 1 (Chạy bền)**: Để đủ điều kiện thi cuối kỳ, tụi em phải trải qua bài kiểm tra chạy cự ly trung bình (1500m đối với nam). Với một đứa lười vận động như em, việc chạy 3 vòng rưỡi sân bóng trong thời gian quy định khiến em thở không ra hơi, hai bắp chân đau nhức ê ẩm suốt 3 ngày sau đó, ảnh hưởng không nhỏ đến thể lực chung.
+* **Thể chất 1 (Chạy ngắn)**: Để đủ điều kiện thi cuối kỳ, tụi em phải trải qua bài kiểm tra chạy ngắn khoảng 60m trong 6s10. Với một đứa lười vận động như em, việc chạy như vậy quả là khó khăn, hai bắp chân đau nhức ê ẩm suốt 3 ngày sau đó, ảnh hưởng không nhỏ đến thể lực chung.
 
 ---
 
